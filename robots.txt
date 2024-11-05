@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilizoapu.github.io/Sqt/sitemap_index.txt
+Sitemap: https://ilizoapu.github.io/URb/sitemap_index.txt
+Sitemap: https://ilizoapu.github.io/ZwL/sitemap_index.txt
+Sitemap: https://ilizoapu.github.io/rCR/sitemap_index.txt
